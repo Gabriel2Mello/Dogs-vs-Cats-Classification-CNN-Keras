@@ -1,0 +1,8 @@
+.DS_Store
+*.zip
+*.idea
+*.caffemodel
+*.mp4
+*.pb
+*.tar.gz
+
